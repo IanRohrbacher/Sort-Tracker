@@ -1,0 +1,66 @@
+{
+    "list": [
+        12,
+        3,
+        8,
+        2,
+        6,
+        11,
+        9,
+        10,
+        1,
+        7,
+        4,
+        5
+    ],
+    "runtime": [
+        {
+            "number": 1,
+            "total_runtime": 1
+        },
+        {
+            "number": 2,
+            "total_runtime": 2
+        },
+        {
+            "number": 3,
+            "total_runtime": 6
+        },
+        {
+            "number": 4,
+            "total_runtime": 17
+        },
+        {
+            "number": 5,
+            "total_runtime": 24
+        },
+        {
+            "number": 6,
+            "total_runtime": 284
+        },
+        {
+            "number": 7,
+            "total_runtime": 1025
+        },
+        {
+            "number": 8,
+            "total_runtime": 9800
+        },
+        {
+            "number": 9,
+            "total_runtime": 106077
+        },
+        {
+            "number": 10,
+            "total_runtime": 1557477
+        },
+        {
+            "number": 11,
+            "total_runtime": 55082034
+        },
+        {
+            "number": 12,
+            "total_runtime": 324752021
+        }
+    ]
+}

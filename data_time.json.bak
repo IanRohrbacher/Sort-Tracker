@@ -1,0 +1,97 @@
+{
+    "list": [
+        3,
+        11,
+        10,
+        5,
+        6,
+        7,
+        8,
+        12,
+        13,
+        1,
+        9,
+        2,
+        4
+    ],
+    "list_storage": [
+        {
+            "end_time": "Apr-08-2025 10:38:56 EDT",
+            "list_size": 1,
+            "start_time": "Apr-08-2025 10:38:56 EDT",
+            "total_comparisons": 1
+        },
+        {
+            "end_time": "Apr-08-2025 10:38:56 EDT",
+            "list_size": 2,
+            "start_time": "Apr-08-2025 10:38:56 EDT",
+            "total_comparisons": 1
+        },
+        {
+            "end_time": "Apr-08-2025 10:38:56 EDT",
+            "list_size": 3,
+            "start_time": "Apr-08-2025 10:38:56 EDT",
+            "total_comparisons": 8
+        },
+        {
+            "end_time": "Apr-08-2025 10:38:56 EDT",
+            "list_size": 4,
+            "start_time": "Apr-08-2025 10:38:56 EDT",
+            "total_comparisons": 7
+        },
+        {
+            "end_time": "Apr-08-2025 10:38:59 EDT",
+            "list_size": 5,
+            "start_time": "Apr-08-2025 10:38:56 EDT",
+            "total_comparisons": 226
+        },
+        {
+            "end_time": "Apr-08-2025 10:39:14 EDT",
+            "list_size": 6,
+            "start_time": "Apr-08-2025 10:38:59 EDT",
+            "total_comparisons": 1427
+        },
+        {
+            "end_time": "Apr-08-2025 10:40:07 EDT",
+            "list_size": 7,
+            "start_time": "Apr-08-2025 10:39:14 EDT",
+            "total_comparisons": 5220
+        },
+        {
+            "end_time": "Apr-08-2025 10:48:47 EDT",
+            "list_size": 8,
+            "start_time": "Apr-08-2025 10:40:07 EDT",
+            "total_comparisons": 48574
+        },
+        {
+            "end_time": "Apr-08-2025 11:46:12 EDT",
+            "list_size": 9,
+            "start_time": "Apr-08-2025 10:48:47 EDT",
+            "total_comparisons": 315552
+        },
+        {
+            "end_time": "Apr-09-2025 03:56:25 EDT",
+            "list_size": 10,
+            "start_time": "Apr-08-2025 11:46:12 EDT",
+            "total_comparisons": 5026449
+        },
+        {
+            "end_time": "Apr-17-2025 23:32:09 EDT",
+            "list_size": 11,
+            "start_time": "Apr-09-2025 03:56:25 EDT",
+            "total_comparisons": 72462793
+        },
+        {
+            "end_time": "Apr-27-2025 07:02:25 EDT",
+            "list_size": 12,
+            "start_time": "Apr-17-2025 23:32:09 EDT",
+            "total_comparisons": 68618604
+        },
+        {
+            "end_time": "",
+            "list_size": 13,
+            "start_time": "Apr-27-2025 07:02:25 EDT",
+            "total_comparisons": 153186900
+        }
+    ]
+}
